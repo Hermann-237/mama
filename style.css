@@ -57,6 +57,8 @@ main {
     /* position: relative;
     z-index: -1; */
   }
+ 
+ 
   
   .main_content {
       text-align: center;
@@ -72,17 +74,20 @@ main {
     display: inline-block;
     margin-left: 13%;
     margin-top: 30px;
+    
 }
 .icone{
     float: left;
  width: 40%;
  height: 100px;
+ 
 }
 .small{
  float: right;
     width: 60%;
  height: 100px;
  padding-top: 20px;
+ 
  
 }
 
